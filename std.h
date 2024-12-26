@@ -3,17 +3,13 @@
 #ifndef STD_H
 #define STD_H
 
+using namespace std;
+
 void summaryOfInputNums() {
-	int n;
-	int result = 0;
-
-	while (true) {
-		std::cin >> n;
-		if (n == 0) break;
-		result += n;
-	}
-
-	std::cout << "Сумма введённых чисел равна " << result;
+	int a, b;
+	cout << "Enter A and B: ";
+	cin >> a >> b;
+	cout << "A + B = " << a + b << endl;
 }
 
 #endif
