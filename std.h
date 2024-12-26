@@ -9,7 +9,8 @@ void summaryOfInputNums() {
 	int a, b;
 	cout << "Enter A and B: ";
 	cin >> a >> b;
-	cout << "A - B = " << a - b << endl;
+	cout << "A + B = " << a + b << endl
+		 << "A - B = " << a - b << endl;
 }
 
 #endif
