@@ -1,0 +1,10 @@
+﻿lab.vcxproj.user
+lab.sln
+*.vcxproj
+lab.vcxproj.filters
+x64/Debug/lab.exe
+x64/Debug/lab.pdb
+lab/x64
+.vs
+.o
+.exe
