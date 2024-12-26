@@ -2,6 +2,7 @@
 #include <Windows.h>
 #include "std.h"
 
+// Программа является учебной
 int main()
 {
 	setlocale(LC_ALL, "Russian");
